@@ -1,0 +1,17 @@
+D:\Проекты_asp_net\Diary\Backend\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Проекты_asp_net\Diary\Backend\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\Проекты_asp_net\Diary\Backend\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Проекты_asp_net\Diary\Backend\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Проекты_asp_net\Diary\Backend\DataAccess\bin\Debug\net8.0\Domain.dll
+D:\Проекты_asp_net\Diary\Backend\DataAccess\bin\Debug\net8.0\Domain.pdb
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\Проекты_asp_net\Diary\Backend\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

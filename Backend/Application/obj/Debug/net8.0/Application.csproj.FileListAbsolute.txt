@@ -1,0 +1,11 @@
+D:\Проекты_asp_net\Diary\Backend\Application\bin\Debug\net8.0\Application.deps.json
+D:\Проекты_asp_net\Diary\Backend\Application\bin\Debug\net8.0\Application.dll
+D:\Проекты_asp_net\Diary\Backend\Application\bin\Debug\net8.0\Application.pdb
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\Application.dll
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\Application.pdb
+D:\Проекты_asp_net\Diary\Backend\Application\obj\Debug\net8.0\ref\Application.dll
