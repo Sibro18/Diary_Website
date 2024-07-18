@@ -15,8 +15,9 @@ namespace Diary.DataAccess.Configurations
 			builder.Property(n => n.Description)
 				.HasMaxLength(256);
 			builder.Property(n => n.CreateDate)
-				.IsRequired();
-
+				.IsRequired()
+				.ValueGeneratedOnAdd()
+				.HasDefaultValueSql("CAST(CONVERT(DATE, GETDATE()) AS DATETIME)");
 		}
 	}
 }
